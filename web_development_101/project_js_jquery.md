@@ -519,3 +519,4 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Daniel Hill's Solution](https://github.com/danielhill13/odin-project/tree/9967ae51e32f2ca6e8d0ba431f1f6396ad15f20b/etch-a-sketch) | [View In Browser] (https://cdn.rawgit.com/danielhill13/odin-project/9967ae51e32f2ca6e8d0ba431f1f6396ad15f20b/etch-a-sketch/index.html)
 * [Luís Antunes' Solution](https://github.com/LuisMAntunes/etch-a-sketch) | [View In Browser] (http://htmlpreview.github.io/?https://github.com/LuisMAntunes/etch-a-sketch/blob/master/index.html)
 * [Jason Mabry's Solution](https://github.com/jmabry111/etchasketch) | [View In Browser] (https://rawgit.com/jmabry111/etchasketch/master/index.html)
+* [Sharon Gao's Solution](https://github.com/segao/Etch-A-Sketch) | [View In Browser] (https://cdn.rawgit.com/segao/Etch-A-Sketch/master/index.html)
